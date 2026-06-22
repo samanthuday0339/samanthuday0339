@@ -68,14 +68,10 @@
 #### 🧩 [GPT-2 (124M) Recreated from Scratch](https://github.com/bsamanthuday0339)
 Implemented the full GPT-2 architecture from scratch in PyTorch — tokenizer, positional embeddings, masked multi-head self-attention, feed-forward blocks, and LM head. Built a manual training pipeline (data loading, batching, AdamW) without HuggingFace, then validated correctness by loading OpenAI's pretrained weights.
 
-#### 🎙️ [ASR Bengaluru Locality Benchmark](https://github.com/samanthuday0339/ASR-Bengaluru-Locality-Benchmark)
-Benchmarked Deepgram Nova-2, OpenAI Whisper, and AI4Bharat Vakyansh on Bengaluru locality name recognition across 20 audio samples, using a custom fuzzy Locality Hit Rate metric to evaluate transcription accuracy.
 
 #### 🥔 Crop Disease Prediction — Potato Leaf
 Trained and compared LeNet-5, AlexNet, VGG16 (transfer learning), and ResNet architectures for potato leaf disease classification, achieving 90%+ accuracy through augmentation and systematic hyperparameter tuning.
 
-#### 📄 Resume Screening Classifier
-Built an NLP-based resume classification system using TF-IDF vectorization and a KNN one-vs-rest classifier, achieving 85%+ accuracy across multiple job categories.
 
 ---
 
