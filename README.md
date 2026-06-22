@@ -79,19 +79,7 @@ Built an NLP-based resume classification system using TF-IDF vectorization and a
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-puce.vercel.app/api?username=bsamanthuday0339&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bsamanthuday0339&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-puce.vercel.app/api/top-langs/?username=bsamanthuday0339&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
